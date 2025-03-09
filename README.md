@@ -39,7 +39,7 @@ This is a fully functional Todo application built using React and Vite. The app 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/todo-app.git
+   git clone https://github.com/thepawan33/Todo_Assignment.git
    ```
 2. Navigate to the project directory:
    ```sh
