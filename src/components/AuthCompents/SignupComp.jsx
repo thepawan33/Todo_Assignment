@@ -1,7 +1,6 @@
-import FormButton from "../reusable/Buttons/formButton";
 import FormInput from "../reusable/Inputs/FormInput";
 import { useSelector } from "react-redux";
-
+import FormButton from "../reusable/Buttons/FormButton";
 import styles from "./css/SignupComp.module.css";
 
 import { useNavigate } from "react-router-dom";
