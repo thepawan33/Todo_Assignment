@@ -4,6 +4,10 @@
 
 This is a fully functional Todo application built using React and Vite. The app allows users to add, delete, and mark tasks as completed. It also includes a drag-and-drop feature to rearrange tasks using the DnD Kit library.
 
+## Project Link
+
+[https://ps-todo-app.netlify.app]
+
 ## 🏗️ Features
 
 - ✅ Add and delete tasks
