@@ -1,0 +1,34 @@
+.container {
+  width: 100vw;
+  height: 95vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  background: linear-gradient(to right, #ffffff, #87ceeb);
+}
+.formContainer {
+  width: 500px;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  background-color: #fff;
+  border-radius: 1rem;
+  padding: 1rem 2rem;
+}
+
+.h2 {
+  text-align: center;
+  color: rgba(0, 0, 255, 0.847);
+}
+.span {
+  text-align: center;
+  font-size: medium;
+  margin-bottom: 1.5rem;
+}
+.button {
+  text-align: center;
+  margin-bottom: 2rem;
+}

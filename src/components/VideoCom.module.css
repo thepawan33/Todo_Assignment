@@ -1,0 +1,17 @@
+.container {
+  margin: 6rem 0 2rem 4rem;
+}
+.video {
+  height: 100%;
+  width: 50%;
+  object-fit: cover;
+}
+
+@media (max-width: 800px) {
+  .video {
+    width: 100vw;
+  }
+  .container {
+    margin-left: 0;
+  }
+}
